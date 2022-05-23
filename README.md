@@ -1,6 +1,6 @@
 # dev-environment-lab
 
-![This is my screenshot](https://i.imgur.com/2SLRr5O.png)
+![This is my screenshot](https://i.imgur.com/NOb8EjH.png)
 
 ## OS
 
