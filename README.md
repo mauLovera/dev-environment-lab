@@ -1,5 +1,7 @@
 # dev-environment-lab
 
+![This is my screenshot](https://i.imgur.com/2SLRr5O.png)
+
 ## OS
 
 darwin19.0
